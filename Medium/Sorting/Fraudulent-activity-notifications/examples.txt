@@ -1,0 +1,26 @@
+2 3 4 2 3 6 8 4 5
+
+2 3 4 2 3 = 2 2 3 3 4     3
+dingsta = 2, atsiranda 6
+
+3 4 2 3 6 = 2 3 3 4 6     3
+dingta = 3, atsiranda 8
+
+4 2 3 6 8 = 2 3 4 6 8     4
+
+dingsta = 4, atsiranda = 4   
+2 3 6 8 4 = 2 3 4 6 8     4
+
+----------------------------
+
+2 3 4 2 = 2 2 3 4 
+mediana =  (2+3)/2 = 2.5
+dingsta = 2, atsiranda = 3
+
+3 4 2 3 = 2 3 3 4
+mediana =  (3+3)/2 = 3
+dingsta = 2, atsiranda = 3
+
+4 2 3 6 = 2 3 4 6
+mediana = (3+4)/2 = 3.5
+dingsta = 3, atsiranda 6

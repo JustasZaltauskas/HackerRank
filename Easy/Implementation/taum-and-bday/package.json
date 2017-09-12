@@ -1,0 +1,15 @@
+{
+  "name": "taum-and-bday",
+  "version": "1.0.0",
+  "description": "HackeRank",
+  "main": "taum-and-bday.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node globals.js taum-and-bday.js"
+  },
+  "author": "Justas",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
